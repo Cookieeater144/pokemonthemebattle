@@ -1,0 +1,30 @@
+body {
+  text-align:center;
+}
+
+#pokemon-team {
+  display:flex;
+  justify-content: space-between
+  
+}
+
+#pokemon-names{
+  display:flex;
+  justify-content: space-between
+}
+
+#container {
+  margin:auto;
+}
+
+img {
+  margin: 10px;
+  background-color:yellowgreen
+}
+
+body {
+  background-image: url('pokemonhtml.jpg');
+  background-size:cover;
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+}
